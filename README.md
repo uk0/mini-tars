@@ -54,3 +54,10 @@
 * [hackster literary works](https://www.hackster.io/charlesdiaz/how-to-build-your-own-replica-of-tars-from-interstellar-224833)
 
 
+#### schedule
+
+
+* 1.已经在某宝进行拆分模型为零件[done]
+* 2.在某宝购买相应的材料[done]
+* 3.尝试使用ollama[in progress]
+* 4.预计在2024年7月20日开始更新相关的代码。
