@@ -28,7 +28,7 @@
 
 #### TARS 3 Main CAD
 
-* [CAD 3D Print Model](tars_3_v9_tvCxpHViUu.step)
+* [CAD 3D Print Model](3d_model/main.step)
 
 #### Code 
 
